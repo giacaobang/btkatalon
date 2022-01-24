@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://hocmai.vn/loginv2/signup.php?fbclid=IwAR1Cef95qQbmE
 
 WebUI.setText(findTestObject('Page_ng k nhp hc - HOCMAI/tên đăng ký'), 'hihi')
 
-WebUI.setText(findTestObject('Page_ng k nhp hc - HOCMAI/EMAIL'), 'emailcuabang@gmail')
+WebUI.setText(findTestObject('Page_ng k nhp hc - HOCMAI/EMAIL'), 'emailcuabang@0')
 
 WebUI.setText(findTestObject('Page_ng k nhp hc - HOCMAI/SDT'), '00859823108')
 

@@ -19,21 +19,23 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://hocmai.vn/loginv2/signup.php?fbclid=IwAR1Cef95qQbmEoRZ5-iu3eejHKYl9ZFV0drus9KLmBQADH-mv_FTIgxQo-s')
+WebUI.navigateToUrl(https://hocmai.vn/loginv2/signup.php?fbclid=IwAR1Cef95qQbmEoRZ5-iu3eejHKYl9ZFV0drus9KLmBQADH-mv_FTIgxQo-s)
 
-WebUI.setText(findTestObject('Page_ng k nhp hc - HOCMAI/tên đăng ký'), 'hihi')
+WebUI.click(findTestObject('Page_ng k nhp hc - HOCMAI/form_tên'))
 
-WebUI.setText(findTestObject('Page_ng k nhp hc - HOCMAI/EMAIL'), 'emailcuabang@gmail')
+WebUI.setText(findTestObject('Page_ng k nhp hc - HOCMAI/tên đăng ký'), 'Gia The Cong')
 
-WebUI.setText(findTestObject('Page_ng k nhp hc - HOCMAI/SDT'), '00859823108')
+WebUI.setText(findTestObject('Page_ng k nhp hc - HOCMAI/EMAIL'), 'emailcuacong@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Page_ng k nhp hc - HOCMAI/password'), 'SltMi93PeeLnT7Gfnl9Jjg==')
+WebUI.setText(findTestObject('Page_ng k nhp hc - HOCMAI/SDT'), '0383116650')
 
-WebUI.setEncryptedText(findTestObject('Page_ng k nhp hc - HOCMAI/repasword'), 'SltMi93PeeLnT7Gfnl9Jjg==')
+WebUI.setEncryptedText(findTestObject('Page_ng k nhp hc - HOCMAI/password'), '9U2aCDWvphd7MK74UHsnGA==')
+
+WebUI.setEncryptedText(findTestObject('Page_ng k nhp hc - HOCMAI/repasword'), '9U2aCDWvphd7MK74UHsnGA==')
+
+WebUI.click(findTestObject('Object Repository/Page_ng k nhp hc - HOCMAI/input_Chnh sch bo mt, iu khon dch v v chnh _799942'))
 
 WebUI.click(findTestObject('Page_Thng tin ti khon - HOCMAI/KICH HOAT'))
 
-WebUI.setText(findTestObject('Page_Thng tin ti khon - HOCMAI/CODE'), '7403')
-
-WebUI.closeBrowser()
+WebUI.setText(findTestObject('Page_Thng tin ti khon - HOCMAI/CODE'), '8912')
 

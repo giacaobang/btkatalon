@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case 0</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d67aa4f0-d21e-4cfe-867b-8574b0dc8be7</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php?fbclid=IwAR1Cef95qQbmEoRZ5-iu3eejHKYl9ZFV0drus9KLmBQADH-mv_FTIgxQo-s'</defaultValue>
+      <description></description>
+      <id>bbfdb908-7d32-4a60-95c3-ca18416ec41a</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

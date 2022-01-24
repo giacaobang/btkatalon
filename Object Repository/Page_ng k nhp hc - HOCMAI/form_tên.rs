@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>form_To ti khon ca bn            Hc tp v gi_ad6b21_1</name>
+   <name>form_tên</name>
    <tag></tag>
-   <elementGuidId>fb4e32f4-4251-40af-9e71-170935d14c87</elementGuidId>
+   <elementGuidId>872fe17e-29c6-4e9d-817d-61b3a7a4c633</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -95,7 +95,7 @@
             
 
             
-                Vui lòng nhập Họ và tên của bạn.
+                
             
             
             
@@ -209,7 +209,7 @@
             
 
             
-                Vui lòng nhập Họ và tên của bạn.
+                
             
             
             
@@ -274,7 +274,144 @@
             
 
             
-                Vui lòng nhập Họ và tên của bạn.
+                
+            
+            
+            
+                
+            
+            
+            
+                
+            
+            
+            
+                
+                    
+                    
+                    
+                
+                
+                    
+                
+            
+            
+
+            
+                
+                    (*) Khi bấm vào đăng ký tài khoản, bạn chắc chắn đã đọc và đồng ý với Chính sách bảo mật, Điều khoản dịch vụ và chính sách tư vấn của HOCMAI.                
+            
+            
+            
+                
+            
+            
+            
+        ')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[@id = 'signupforms' and (text() = '
+            
+                        Tạo tài khoản của bạn
+            Học tập và giao lưu với hàng triệu học viên trên mọi miền đất nước. 
+            
+                
+                    
+                        Đăng ký qua Facebook
+                    
+                
+                
+                    
+                        Đăng ký qua Google
+                    
+                
+                
+                    
+                        Đăng ký qua Yahoo
+                    
+                
+                
+                    
+                        Đăng ký với Apple
+                    
+                
+            
+
+            
+             Hoặc 
+            
+
+            
+                Họ và tên chỉ bao gồm chữ (viết hoa, viết thường) và có ít nhất hai từ tách biệt.
+            
+            
+            
+                
+            
+            
+            
+                
+            
+            
+            
+                
+                    
+                    
+                    
+                
+                
+                    
+                
+            
+            
+
+            
+                
+                    (*) Khi bấm vào đăng ký tài khoản, bạn chắc chắn đã đọc và đồng ý với Chính sách bảo mật, Điều khoản dịch vụ và chính sách tư vấn của HOCMAI.                
+            
+            
+            
+                
+            
+            
+            
+        ' or . = '
+            
+                        Tạo tài khoản của bạn
+            Học tập và giao lưu với hàng triệu học viên trên mọi miền đất nước. 
+            
+                
+                    
+                        Đăng ký qua Facebook
+                    
+                
+                
+                    
+                        Đăng ký qua Google
+                    
+                
+                
+                    
+                        Đăng ký qua Yahoo
+                    
+                
+                
+                    
+                        Đăng ký với Apple
+                    
+                
+            
+
+            
+             Hoặc 
+            
+
+            
+                Họ và tên chỉ bao gồm chữ (viết hoa, viết thường) và có ít nhất hai từ tách biệt.
             
             
             

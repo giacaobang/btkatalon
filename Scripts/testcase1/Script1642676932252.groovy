@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://hocmai.vn/loginv2/signup.php?fbclid=IwAR1Cef95qQbmEoRZ5-iu3eejHKYl9ZFV0drus9KLmBQADH-mv_FTIgxQo-s')
 
-WebUI.setText(findTestObject('Page_ng k nhp hc - HOCMAI/tên đăng ký'), 'Gia Cao Bang')
+WebUI.setText(findTestObject('Page_ng k nhp hc - HOCMAI/tên đăng ký'), 'hihi')
 
 WebUI.setText(findTestObject('Page_ng k nhp hc - HOCMAI/EMAIL'), 'emailcuabang@gmail.com')
 
